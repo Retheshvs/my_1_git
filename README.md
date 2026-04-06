@@ -1,4 +1,4 @@
 # my_1_git
-rethesh 
+Learning GitHub
 
 This is the new change
